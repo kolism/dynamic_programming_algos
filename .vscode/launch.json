@@ -1,7 +1,6 @@
 {
   "version": "0.2.0",
   "configurations": [
- 
     {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
@@ -32,6 +31,6 @@
       "program": "${workspaceFolder}/build/Debug/outDebug.exe",
       "args": [],
       "cwd": "${workspaceFolder}"
-    },
+    }
   ]
 }
